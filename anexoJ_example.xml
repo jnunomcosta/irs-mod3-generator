@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<AnexoJ_Q09_2A>
+    <AnexoJq092AT01>
+        <AnexoJq092AT01-Linha numero="1">
+            <NLinha>951</NLinha>
+            <CodPais>832</CodPais>
+            <Codigo>G20</Codigo>
+            <AnoRealizacao>2025</AnoRealizacao>
+            <MesRealizacao>1</MesRealizacao>
+            <DiaRealizacao>1</DiaRealizacao>
+            <ValorRealizacao>50.01</ValorRealizacao>
+            <AnoAquisicao>2024</AnoAquisicao>
+            <MesAquisicao>1</MesAquisicao>
+            <DiaAquisicao>1</DiaAquisicao>
+            <ValorAquisicao>20</ValorAquisicao>
+            <DespesasEncargos>1</DespesasEncargos>
+            <ImpostoPagoNoEstrangeiro>0</ImpostoPagoNoEstrangeiro>
+            <CodPaisContraparte>276</CodPaisContraparte>
+            <RespeitaValoresMobiliarios>N</RespeitaValoresMobiliarios>
+        </AnexoJq092AT01-Linha>
+        <AnexoJq092AT01-Linha numero="2">
+            <NLinha>952</NLinha>
+            <CodPais>832</CodPais>
+            <Codigo>G20</Codigo>
+            <AnoRealizacao>2025</AnoRealizacao>
+            <MesRealizacao>1</MesRealizacao>
+            <DiaRealizacao>1</DiaRealizacao>
+            <ValorRealizacao>41.02</ValorRealizacao>
+            <AnoAquisicao>2024</AnoAquisicao>
+            <MesAquisicao>1</MesAquisicao>
+            <DiaAquisicao>1</DiaAquisicao>
+            <ValorAquisicao>30</ValorAquisicao>
+            <DespesasEncargos>0</DespesasEncargos>
+            <ImpostoPagoNoEstrangeiro>0</ImpostoPagoNoEstrangeiro>
+            <CodPaisContraparte>276</CodPaisContraparte>
+            <RespeitaValoresMobiliarios>N</RespeitaValoresMobiliarios>
+        </AnexoJq092AT01-Linha>
+    </AnexoJq092AT01>
+    <AnexoJq092AT01SomaC01>91.03</AnexoJq092AT01SomaC01>
+    <AnexoJq092AT01SomaC02>50</AnexoJq092AT01SomaC02>
+    <AnexoJq092AT01SomaC03>1</AnexoJq092AT01SomaC03>
+    <AnexoJq092AT01SomaC04>0</AnexoJq092AT01SomaC04>
+</AnexoJ_Q09_2A>
